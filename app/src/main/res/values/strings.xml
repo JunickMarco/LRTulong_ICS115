@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LRTulong</string>
+    <string-array name="country">
+        <item>Baclaran</item>
+        <item>EDSA</item>
+        <item>Libertad</item>
+        <item>Gil Puyat</item>
+        <item>Vito Cruz</item>
+        <item>Quirino</item>
+        <item>Pedro Gil</item>
+        <item>UN Ave</item>
+        <item>Central</item>
+        <item>Carriedo</item>
+        <item>Doroteo Jose</item>
+        <item>Bambang</item>
+        <item>Tayuman</item>
+        <item>Blumentritt</item>
+        <item>Abad Santos</item>
+        <item>R. Papa</item>
+        <item>5th Ave</item>
+        <item>Monumento</item>
+        <item>Balintawak</item>
+        <item>Roosevelt</item>
+    </string-array>
+</resources>
